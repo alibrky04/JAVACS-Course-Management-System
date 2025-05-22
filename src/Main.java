@@ -1,5 +1,5 @@
 // Ali Berkay Görgülü | 22290421
-// JAVACS Course management system
+// JAVACS Course Management System
 
 import Menus.MainMenu;
 

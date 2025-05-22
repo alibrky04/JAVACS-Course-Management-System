@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.idea
+YMH348_Java_Programlama_Proje.iml
